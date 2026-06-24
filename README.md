@@ -9,12 +9,21 @@ A comprehensive mobile application designed to help students manage their academ
 - Weekly timetable view with day-by-day organization
 - Automatic lecture reminders and alarms
 - Support for professor names and room numbers
+![ss](ScreenShots/Screenshot_1.png)
 
-### 📝 Notes & Folders
+### ✅ To-Do List & 📝 Notes & Folders
+- Create tasks with priority levels (Low/Medium/High)
+- Set due dates for tasks
+- Filter by All/Pending/Completed
+- Edit and delete tasks
+- Quick preview on home screen
+![ss](ScreenShots/Screenshot_2.png)
+
 - Create color-coded folders for organization
 - Add, edit, and delete notes within folders
 - Expandable note cards with content preview
 - Swipe to delete functionality
+![ss](ScreenShots/Screenshot_5.png)
 
 ### 🎙️ Lecture Recording & Photos
 - Record audio lectures with pause/resume capability
@@ -23,16 +32,12 @@ A comprehensive mobile application designed to help students manage their academ
 - Playback recordings with progress bar
 - Share photos and recordings
 - Delete media with confirmation
+![ss](ScreenShots/Screenshot_3.png)
+![ss](ScreenShots/Screenshot_6.png)
 
 ### 🤖 AI Assistant
 - Integrated Gemini AI chat assistant
-
-### ✅ To-Do List
-- Create tasks with priority levels (Low/Medium/High)
-- Set due dates for tasks
-- Filter by All/Pending/Completed
-- Edit and delete tasks
-- Quick preview on home screen
+![ss](ScreenShots/Screenshot_4.png)
 
 ### ⚙️ Settings
 - Dark/Light theme toggle
@@ -41,7 +46,7 @@ A comprehensive mobile application designed to help students manage their academ
 - Customizable reminder timing
 - Export timetable as CSV
 - Clear all data option
-
+![ss](ScreenShots/Screenshot_7.png)
 ### 🌐 Localization
 - Full Arabic and English support
 - Right-to-left (RTL) layout support for Arabic
