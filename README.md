@@ -110,6 +110,7 @@ Before you begin, ensure you have the following installed:
 git clone https://github.com/DangerousAngel/SmartStallerAssistant.git
 cd SmartStallerAssistant
 flutter pub get
+flutter gen-l10n
 ```
 ## Set up Gemini API Key
 
