@@ -18,12 +18,10 @@ A comprehensive mobile application designed to help students manage their academ
 - Edit and delete tasks
 - Quick preview on home screen
 ![ss](ScreenShots/Screenshot_2.png)
-
 - Create color-coded folders for organization
 - Add, edit, and delete notes within folders
 - Expandable note cards with content preview
 - Swipe to delete functionality
-![ss](ScreenShots/Screenshot_5.png)
 
 ### 🎙️ Lecture Recording & Photos
 - Record audio lectures with pause/resume capability
