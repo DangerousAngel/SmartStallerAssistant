@@ -162,3 +162,10 @@ student_assistance_app/
 └── README.md                     # This file
 ```
 
+### 🎨 Design Team
+We extend our heartfelt gratitude to our talented design team who brought visual excellence to this project:
+**Najm'a Al-Wesabi** ✨
+**Noha Al-Brakani** 🎯
+
+### 💻 Me
+[DangerousAngel](https://linktr.ee/DangerousAngel)
