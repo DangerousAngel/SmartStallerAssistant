@@ -1,0 +1,222 @@
+{
+    "@@locale": "en",
+    "todoList": "To-Do List",
+  "nextTask": "Next Task",
+  "viewAllTasks": "View All Tasks",
+  "tapToAddTask": "Tap to add your first task",
+      "todoList": "To-Do List",
+  "addNewTask": "Add New Task",
+  "taskTitle": "Task Title",
+  "description": "Description",
+  "priority": "Priority",
+  "low": "Low",
+  "medium": "Medium", 
+  "high": "High",
+  "dueDate": "Due Date",
+  "selectDate": "Select Date",
+  "editTask": "Edit Task",
+  "save": "Save",
+  "all": "All",
+  "pending": "Pending",
+  "completed": "Completed",
+  "failedToLoadTasks": "Failed to load tasks",
+  "noTasks": "No tasks yet",
+  "refresh": "Refresh",
+    "studentAssistant": "Stellar Assistant",
+    "home": "Home",
+    "timetable": "Timetable",
+    "lectures": "Lectures",
+    "settings": "Settings",
+    "aiAssistant": "AI Assistant",
+    "quickActions": "Quick Actions",
+    "newNote": "New Note",
+    "record": "Record",
+    "takePhoto": "Take Photo",
+    "myFolders": "My Folders",
+    "addFolder": "Add Folder",
+    "noFoldersYet": "No folders yet",
+    "createFirstFolder": "Create your first folder to get started!",
+    "upcomingLectures": "Upcoming Lectures",
+    "noUpcomingLectures": "No upcoming lectures",
+    "failedToLoadLectures": "Failed to load lectures",
+    "tryAgain": "Try Again",
+    "editFolder": "Edit Folder",
+    "createNewFolder": "Create New Folder",
+    "folderName": "Folder Name",
+    "chooseColor": "Choose Color:",
+    "cancel": "Cancel",
+    "create": "Create",
+    "save": "Save",
+    "photoSavedFor": "Photo saved for {subject}",
+    "@photoSavedFor": {
+        "placeholders": {
+            "subject": {
+                "type": "String"
+            }
+        }
+    },
+    "errorSavingPhoto": "Error saving photo: {error}",
+    "@errorSavingPhoto": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "recordingSavedFor": "Recording saved for {subject}",
+    "@recordingSavedFor": {
+        "placeholders": {
+            "subject": {
+                "type": "String"
+            }
+        }
+    },
+    "errorSavingRecording": "Error saving recording: {error}",
+    "@errorSavingRecording": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "photoss": "Photos",
+    "records": "Records",
+    "noSubjectsFound": "No subjects found. Add some to your timetable first.",
+    "selectSubjectForPhoto": "Select subject for photo",
+    "selectSubjectForRecording": "Select subject for recording",
+    "noNotesYet": "No notes yet. Add one!",
+    "addNewNote": "Add New Note",
+    "editNote": "Edit Note",
+    "title": "Title",
+    "content": "Content",
+    "pleaseEnterTitle": "Please enter a title",
+    "pleaseEnterContent": "Please enter content",
+    "noClassesScheduled": "No classes scheduled",
+    "addTimetableEntry": "Add Timetable Entry",
+    "editTimetableEntry": "Edit Timetable Entry",
+    "day": "Day",
+    "dr": "Dr.",
+    "notificationTime": "Time before Notifications",
+    "minutesBeforeLecture": "Set minutes Before Lecture",
+    "time": "Time",
+    "subject": "Subject",
+    "hallOptional": "Hall (Optional)",
+    "doctorOptional": "Doctor (Optional)",
+    "pleaseEnterSubject": "Please enter subject",
+    "add": "Add",
+    "preferences": "Preferences",
+    "enableNotifications": "Enable Notifications",
+    "getRemindersBeforeLectures": "Get reminders before lectures",
+    "darkMode": "Dark Mode",
+    "switchToDarkTheme": "Switch to dark theme",
+    "language": "Language",
+    "changeAppLanguage": "Change the app's language",
+    "dataManagement": "Data Management",
+    "exportTimetableData": "Export Timetable Data (CSV)",
+    "clearAllData": "Clear All Data",
+    "clear": "Clear",
+    "confirmClearAllData": "This will delete all your data, including photos and recordings. This action cannot be undone.",
+    "allDataCleared": "All data cleared successfully",
+    "noTimetableDataToExport": "No timetable data to export.",
+    "appDescription": "Your little academic friend for organizing lectures, notes, todoList, and schedules. This app is Developed by DangerousAngel.",
+    "version": "Version 1.0.0",
+    "setNotificationTimer": "Set Notifications Timer:",
+    "newChat": "New Chat",
+    "askMeAnything": "Ask me anything...",
+    "messageCopiedToClipboard": "Message copied to clipboard!",
+    "itemsSelected": "{count} selected",
+    "@itemsSelected": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "confirmDelete": "Confirm Delete",
+    "deleteNItems": "Delete {count} selected items?",
+    "@deleteNItems": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "delete": "Delete",
+    "deletedNItems": "Deleted {count} items",
+    "@deletedNItems": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "noRecordsYet": "No recordings yet for",
+    "noPhotosYet": "No photos yet for",
+    "share": "Share",
+    "selected": "selected",
+    "photo": "photo",
+    "recording": "Recording",
+    "invalidFile": "Invalid file",
+    
+    "ofphotos": "{count} photos",
+    "@photos": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "ofrecords": "{count} records",
+    "@ofrecords": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    
+    "errorSharing": "Error sharing: {error}",
+    "@errorSharing": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "cancelSelection": "Cancel selection",
+    "shareSelected": "Share selected",
+    "deleteSelected": "Delete selected",
+    "lectureReminder": "Lecture Reminder",
+    "lectureStartsIn": "{subject} in {room} starts in {minutes} minutes",
+    "@lectureStartsIn": {
+        "placeholders": {
+            "subject": { "type": "String" },
+            "room": { "type": "String" },
+            "minutes": { "type": "int" }
+        }
+    },
+    "nextLecture": "Next Lecture",
+    "lectureAt": "{subject} ({day}) at {time}",
+    "lecture": "Lecture",
+    "now": "Starts now",
+    "alarmSetFor": "Alarm set for {subject}",
+    "@alarmSetFor": {
+        "placeholders": {
+            "subject": { "type": "String" }
+        }
+    },
+    "stopAlarm": "Stop Alarm",
+    "stop": "Stop",
+    "ringRing": "Ring Ring!",
+    "lectureNow": "Lecture Now",
+    "lectureNowAlarm": "Lecture Now Alarm"
+
+    
+}

@@ -1,0 +1,211 @@
+{
+    "@@locale": "ar",
+    "todoList": "قائمة المهام",
+  "nextTask": "المهمة التالية", 
+  "viewAllTasks": "عرض جميع المهام",
+  "tapToAddTask": "انقر لإضافة مهمتك الأولى",
+     "todoList": "قائمة المهام",
+  "addNewTask": "إضافة مهمة جديدة",
+  "taskTitle": "عنوان المهمة",
+  "description": "الوصف",
+  "priority": "الأولوية",
+  "low": "منخفض",
+  "medium": "متوسط",
+  "high": "عالٍ",
+  "dueDate": "تاريخ المهمة",
+  "selectDate": "اختر تاريخ",
+  "editTask": "تعديل المهمة",
+  "save": "حفظ",
+  "all": "الكل",
+  "pending": "المعلقة",
+  "completed": "المكتملة",
+  "failedToLoadTasks": "فشل تحميل المهام",
+  "noTasks": "لا توجد مهام بعد",
+  "refresh": "تحديث",
+    "studentAssistant": "المساعد النجمي",
+    "home": "الرئيسية",
+    "timetable": "الجدول الدراسي",
+    "lectures": "المحاضرات",
+    "settings": "الإعدادات",
+    "aiAssistant": "المساعد الذكي",
+    "quickActions": "عـمـلـيـات سـريــعـة",
+    "newNote": "ملاحظة جديدة",
+    "record": "تسجيل",
+    "takePhoto": "التقاط صورة",
+    "myFolders": "ملـفــاتي",
+    "addFolder": "إضافة مجلد",
+    "noFoldersYet": "لا توجد مجلدات بعد",
+    "createFirstFolder": "أنشئ مجلدك الأول للبدء!",
+    "upcomingLectures": "المحاضرات القادمة",
+    "noUpcomingLectures": "لا توجد محاضرات قادمة",
+    "failedToLoadLectures": "فشل تحميل المحاضرات",
+    "tryAgain": "حاول مرة أخرى",
+    "editFolder": "تعديل المجلد",
+    "createNewFolder": "إنشاء مجلد جديد",
+    "folderName": "اسم المجلد",
+    "chooseColor": "اختر لونًا:",
+    "cancel": "إلغاء",
+    "create": "إنشاء",
+    "save": "حفظ",
+    "photoSavedFor": "تم حفظ الصورة لمادة {subject}",
+    "@photoSavedFor": {
+        "placeholders": {
+            "subject": {
+                "type": "String"
+            }
+        }
+    },
+    "errorSavingPhoto": "خطأ في حفظ الصورة: {error}",
+    "@errorSavingPhoto": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "recordingSavedFor": "تم حفظ التسجيل لمادة {subject}",
+    "@recordingSavedFor": {
+        "placeholders": {
+            "subject": {
+                "type": "String"
+            }
+        }
+    },
+    "errorSavingRecording": "خطأ في حفظ التسجيل: {error}",
+    "@errorSavingRecording": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "photoss": "الصور",
+    "records": "التسجيلات",
+    "noSubjectsFound": "لم يتم العثور على مواد. أضف بعضها إلى جدولك الدراسي أولاً.",
+    "selectSubjectForPhoto": "اختر المادة للصورة",
+    "selectSubjectForRecording": "اختر المادة للتسجيل",
+    "noNotesYet": "لا توجد ملاحظات بعد. أضف واحدة!",
+    "addNewNote": "إضافة ملاحظة جديدة",
+    "editNote": "تعديل الملاحظة",
+    "title": "العنوان",
+    "content": "المحتوى",
+    "pleaseEnterTitle": "الرجاء إدخال عنوان",
+    "pleaseEnterContent": "الرجاء إدخال محتوى",
+    "noClassesScheduled": "لا توجد محاضرات مجدولة",
+    "addTimetableEntry": "إضافة موعد بالجدول",
+    "editTimetableEntry": "تعديل موعد بالجدول",
+    "day": "اليوم",
+    "dr": "د.",
+    "notificationTime": "الوقت قبل الإشعارات",
+    "minutesBeforeLecture": "تعيين دقائق قبل إشعار المحاضرات",
+    "time": "الوقت",
+    "subject": "المادة",
+    "hallOptional": "القاعة (اختياري)",
+    "doctorOptional": "الدكتور (اختياري)",
+    "pleaseEnterSubject": "الرجاء إدخال اسم المادة",
+    "add": "إضافة",
+    "preferences": "اعدادات اضافية",
+    "enableNotifications": "تفعيل الإشعارات",
+    "getRemindersBeforeLectures": "احصل على تذكيرات قبل المحاضرات",
+    "darkMode": "الوضع الداكن",
+    "switchToDarkTheme": "التبديل إلى المظهر الداكن",
+    "language": "اللغة",
+    "changeAppLanguage": "تغيير لغة التطبيق",
+    "dataManagement": "إدارة البيانات",
+    "exportTimetableData": "تصدير بيانات الجدول (CSV)",
+    "clearAllData": "مسح كل البيانات",
+    "clear": "مسح",
+    "confirmClearAllData": "سيؤدي هذا إلى حذف جميع بياناتك، بما في ذلك الصور والتسجيلات. لا يمكن التراجع عن هذا الإجراء.",
+    "allDataCleared": "تم مسح جميع البيانات بنجاح",
+    "noTimetableDataToExport": "لا توجد بيانات في الجدول لتصديرها.",
+    "appDescription": "صديقك الأكاديمي الصغير لتنظيم المحاضرات والملاحظات والجداول الزمنية وجدول المهام. هذا التطبيق من تطوير DangerousAngel",
+    "version": "الإصدار 1.0.0",
+    "setNotificationTimer": "وضع مؤقت الاشعارت",
+    "newChat": "محادثة جديدة",
+    "askMeAnything": "اسألني أي شيء...",
+    "messageCopiedToClipboard": "تم نسخ الرسالة إلى الحافظة!",
+    "itemsSelected": "تم تحديد {count} عنصر",
+    "@itemsSelected": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "confirmDelete": "تأكيد الحذف",
+    "deleteNItems": "هل تريد حذف {count} من العناصر المحددة؟",
+    "@deleteNItems": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "delete": "حذف",
+    "deletedNItems": "تم حذف {count} عنصر",
+    "@deletedNItems": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "saturday": "السبت",
+    "sunday": "الأحد",
+    "monday": "الإثنين",
+    "tuesday": "الثلاثاء",
+    "wednesday": "الأربعاء",
+    "thursday": "الخميس",
+    "friday": "الجمعة",
+    "noRecordsYet": "مابش تسجيلات لهذة لمادة",
+    "noPhotosYet": "مابش صور لهذة لمادة",
+    "share": "مشاركة",
+    "selected": "محدد",
+    "photo": "صورة",
+    "recording": "تسجيل",
+    "invalidFile": "ملف غير صالح",
+    
+    "ofphotos": "صورة {count}",
+    "@ofphotos": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "ofrecords": "تسجيل {count}",
+    "@ofrecords": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    
+    "errorSharing": "خطأ في المشاركة: {error}",
+    "@errorSharing": {
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    
+    "cancelSelection": "إلغاء التحديد",
+    "shareSelected": "مشاركة المحدد",
+    "deleteSelected": "حذف المحدد",
+    "lecture": "محاضرة",
+    "now": "تبدأ الآن",
+    "alarmSetFor": "تم ضبط المنبه لـ {subject}",
+    "@alarmSetFor": {
+        "placeholders": {
+            "subject": { "type": "String" }
+        }
+    },
+    "stopAlarm": "إيقاف المنبه",
+    "stop": "قف",
+    "ringRing": "رنين!",
+    "lectureNow": "محاضرةالان",
+    "lectureNowAlarm": "تنبية وقت المحاضرة"
+
+}
