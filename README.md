@@ -1,5 +1,5 @@
 # 📚 SmartStallerAssistant
-![AppLogo](assets\ic_launcher_foreground.png)
+![AppLogo](assets/ic_launcher_foreground.png)
 A comprehensive mobile application designed to help students manage their academic life efficiently. Built with Flutter, this app provides tools for timetable management, note-taking, lecture recording, AI-powered assistance, and task management.
 
 ## ✨ Features
