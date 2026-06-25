@@ -44,7 +44,7 @@ A comprehensive mobile application designed to help students manage their academ
 - Customizable reminder timing
 - Export timetable as CSV
 - Clear all data option
-![ss](ScreenShots/Screenshot_7.png)
+
 ### 🌐 Localization
 - Full Arabic and English support
 - Right-to-left (RTL) layout support for Arabic
