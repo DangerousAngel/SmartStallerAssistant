@@ -163,9 +163,15 @@ student_assistance_app/
 ```
 
 ### 🎨 Design Team
-We extend our heartfelt gratitude to our talented design team who brought visual excellence to this project:
-**Najm'a Al-Wesabi** ✨
-**Noha Al-Brakani** 🎯
+We extend our heartfelt gratitude to our talented design team who brought visual excellence to this project: 
+**Najm'a Al-Wesabi** 
+**Noha Al-Brakani** 
 
 ### 💻 Me
 [DangerousAngel](https://linktr.ee/DangerousAngel)
+
+### 🎯 IMPORTANT
+You might need to rename the main folder to 
+```text 
+student_assistance_app
+```
